@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "sk8er.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
